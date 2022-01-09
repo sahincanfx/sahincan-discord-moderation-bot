@@ -1,0 +1,28 @@
+{
+  "name": "stat",
+  "version": "0.0.1",
+  "description": "Stat Sahincan",
+  "main": "sahincan.js",
+  "scripts": {
+    "start": "node sahincan.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "quick.db": "^7.1.2",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "Sahincan",
+    "râvenn",
+    "reawen"
+  ]
+}
