@@ -5,5 +5,5 @@
  Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olur ise lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
  
  
-- Sahincan(https://discord.com/users/853235926825435146)
-- Bulunduğum Sunucu(https://discord.gg/animekizi)
+- [Sahincan](https://discord.com/users/853235926825435146)
+- [Bulunduğum Sunucu](https://discord.gg/animekizi)
