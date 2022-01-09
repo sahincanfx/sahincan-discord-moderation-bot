@@ -1,4 +1,4 @@
-## Bir sene önce Pain ekibinde kullandığım moderasyon botudur. Yeni sistemler çıktığı ve altyapı eskidiği için paylaşıyorum, kullandığım dönemde her hangi bir hata çıkarmamıştı kullanımıyla alakalı ve diğer şeylerle ilgili destek/yardım almak için aşağıya bırakacağım kullanıcı profiline tıklayıp bana yazabilirsiniz
+## Bir sene önce Pain ekibinde kullandığım moderasyon botudur. Yeni sistemler çıktığı ve altyapı eskidiği için paylaşıyorum, kullandığım dönemde her hangi bir hata çıkarmamıştı kullanımıyla alakalı ve diğer şeylerle ilgili destek/yardım almak için aşağıya bırakacağım linklere tıklayıp bana ulaşabilirsiniz
 
 # Sahincan
 
